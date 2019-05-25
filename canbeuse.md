@@ -29,6 +29,7 @@
 **12：ios动画+** （开发者模式关闭窗口动画缩放，转换动画1.5×，动画时间0.5，镧工具箱改0.75更好）
 
 [12以上链接:](https://pan.baidu.com/s/16otusJKN28apH7L0bBbm0Q) 提取码:29h4 
+
 [13以下链接:](链接:https://pan.baidu.com/s/19UAI-qdSot8gFbxSTUpbAw) 提取码:gj16 
 
 **13.taichi太极面具版 [作者weishu](http://www.coolapk.com/u/1257513)** [Magisk4.9.1 ]（http://www.taichi.cool）
@@ -38,3 +39,5 @@
 **15.QC3.0-18W快充**
 
 **16.magisk_kuaifo**免adb使用快否
+
+**17.g7韩版9.0本地化[作者:爱是崇高(http://www.coolapk.com/u/470620)]** [下载链接:（提取码6fex）](https://pan.baidu.com/s/1r4Y3h9bB8N2qsNhcOjI4wA)去拨号键盘韩文，调整拨号键盘布局，开启t9，添加拨号、来去电、联系人、通话记录、信息归属地，开启所有解锁天气特效，解除lg隐藏导航栏限制
